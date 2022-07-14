@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin K S</h1>
 <h3 align="center">A Full Stack Developer,love building creative applications</h3>
 
-- 🔭 I’m currently **learning something new**
+- 🔭 I’m currently **  I’m currently learning Full-Stack Web Development**
 
 - 💬 Ask me about **JavaScript/React-JS/HTML/CSS/Node-JS**
 
